@@ -1,0 +1,1 @@
+<html><head><title>C:\Users\user\Python project\pythonProject7</title></head><body><a href="rus1.html">rus1</a><br /><a href="rus2.py.html">rus2.py</a><br /></body></html>
